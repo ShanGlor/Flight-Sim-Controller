@@ -17,3 +17,5 @@ Open FreeRider, calibrate and Play!
 
 
 Have fun!
+
+Credits to InsideGadgets.
